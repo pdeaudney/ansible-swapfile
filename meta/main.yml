@@ -3,8 +3,8 @@ galaxy_info:
   author: "Kamal Nasser"
   description: swapfile
   license: MIT
-  min_ansible_version: 1.4
-  version: 0.4
+  min_ansible_version: 1.9
+  version: 0.5
   categories:
     - system
   dependencies: []
